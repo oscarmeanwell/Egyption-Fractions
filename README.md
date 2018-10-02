@@ -1,6 +1,6 @@
 # Egyption-Fractions
 Written in Perl5
-Uses Fibonacci greedy algorithm 
+Uses Fibonacci greedy algorithm to translate rational numbers into egyption fractions
 
 An egyption fraction is the sum of its distinct unit fractions:
 1/2 + 1/3 + 1/16 = 43/48
