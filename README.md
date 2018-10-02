@@ -7,7 +7,8 @@ An egyption fraction is the sum of its distinct unit fractions:
 
 This program gets the Egyption fraction of whatever fraction you input.
 
-```Please input Numerator: 43
+```
+Please input Numerator: 43
 Please input Denominator: 48
 
 Egyptian Fraction Representation of 43/48 is: 
