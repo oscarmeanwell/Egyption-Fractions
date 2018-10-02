@@ -19,8 +19,9 @@ sub isEgyption{
         return;
     }
     if($nr > $de){
-        printf $nr/$de . " + ";
-        isEgyption($nr/$de, $de);
+        printf int($nr/$de) . " + ";
+        isEgyption($nr%$de, $de);
+        return;
     }
     # Floor to find ceiling and print as fraction
     my $tmp = int($de/$nr) + 1;
