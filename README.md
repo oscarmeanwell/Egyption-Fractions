@@ -15,3 +15,5 @@ Egyptian Fraction Representation of 43/48 is:
 
 1/2 + 1/3 + 1/16
 ```
+
+My solution was published on Rosetta code [here](http://rosettacode.org/wiki/Egyptian_fractions#Perl_5)
